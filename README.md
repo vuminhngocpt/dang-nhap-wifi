@@ -1,13 +1,5 @@
-#### Đăng Nhập Thành Công Mạng Wifi 
+## Đăng Nhập Thành Công
 
-  - internet test = ok
-  - bảo mật test  = ok
-  - tốc độ mạng   = 10Mb
+- bạn đã kết nối thành công internet bạn có thời gian tầm 3 tiếng để vào mạng với tốc độ 10Mbs , lưu ý khi hết thời gian vui lòng quên mạng và kết nối lại để sử dụng bình thường , do mạng miễn phí nên đôi lúc không được ổn định mong các bạn thông cảm 
 
-#### Hướng Dẫn
-
-  - các bạn có thời gian là 3 tiếng để vào mạng này hết 3 tiếng vui lòng kết nối lại , một số thiết bị sẽ không đăng nhập được vì quá cũ , hỗ trợ iPhone và Android ... 
-
-#### chúc các bạn online vui vẻ 🥰
-
-     Vũ Minh Ngọc © 2025 
+           Vũ Minh Ngọc © 2025 
